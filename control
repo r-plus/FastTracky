@@ -1,0 +1,9 @@
+Package: jp.r-plus.fasttracky
+Name: FastTracky
+Depends: mobilesubstrate, firmware (>= 9.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Delightful 3D Touch keyboard trackpad.
+Maintainer: r_plus
+Author: r_plus
+Section: Tweaks

@@ -1,0 +1,5 @@
+.DS*
+obj
+packages
+.theos
+gsc
